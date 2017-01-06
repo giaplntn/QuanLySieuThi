@@ -1,0 +1,116 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\bin\Release\QuanLyKhachSan.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\bin\Release\QuanLyKhachSan.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\bin\Release\SandDock.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmMain.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.exe.licenses
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\Interop.SQLDMO.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\bin\Release\Interop.SQLDMO.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBackup.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBangGia.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBaoCaoDoanhThuPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBaoCaoHieuSuatPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBaoCaoKhachHuy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoanhThuDichVu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHoaDon.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmCapNhapThongTin.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDangNhap.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDanhSachHuyDangKy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoiMatKhau.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoiPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoiTac.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDsDichVu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDsPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDatNhanPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHuyDangKy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmLoaiPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmMayChu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNguoiDung.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNguoiDungThemSua.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNhatKyLuuTru.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNhom.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmPhanNhom.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmRestore.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmSplash.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmSuDungDichVu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTacGia.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDsThietBi.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmThanhToan.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmThongKeKhachHang.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmThongTinPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTongDoanhThu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTraCuu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTrangThietBi.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTuyChonHT.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTyGiaNgoaiTe.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDangNhapTrong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienBieuDo.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienDoanhThuPhong.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienDoanhThuDV.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienKhachHuy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienThongKeKhach.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienTongDoanhThu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNhanPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\Interop.SQLDMO.dll
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.csproj.ResolveComReference.cache
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.exe
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.pdb
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\bin\Release\QuanLyKhachSan.exe
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\bin\Release\QuanLyKhachSan.pdb
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\bin\Release\SandDock.dll
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\bin\Release\Interop.SQLDMO.dll
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\ResolveAssemblyReference.cache
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBackup.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBangGia.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBaoCaoDoanhThuPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBaoCaoHieuSuatPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmBaoCaoKhachHuy.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDangNhapTrong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoanhThuDichVu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienBieuDo.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienDoanhThuPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienDoanhThuDV.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienKhachHuy.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienThongKeKhach.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHienTongDoanhThu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHoaDon.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmCapNhapThongTin.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDangNhap.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDanhSachHuyDangKy.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoiMatKhau.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoiPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDoiTac.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDsDichVu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDsPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDatNhanPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmHuyDangKy.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmLoaiPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmMain.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmMayChu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNguoiDung.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNguoiDungThemSua.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNhanPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNhatKyLuuTru.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmNhom.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmPhanNhom.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmRestore.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmSplash.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmSuDungDichVu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTacGia.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmDsThietBi.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmThanhToan.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmThongKeKhachHang.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmThongTinPhong.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTongDoanhThu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTraCuu.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTrangThietBi.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTuyChonHT.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.frmTyGiaNgoaiTe.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.Properties.Resources.resources
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.csproj.GenerateResource.Cache
+E:\Visual C#\Source Tu Viet\Quan Ly Khach San\QuanLyKhachSan\obj\Release\QuanLyKhachSan.exe.licenses
